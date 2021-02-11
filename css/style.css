@@ -1,0 +1,17 @@
+body {
+	background-image: linear-gradient(to top, #4C9DB1 , yellow);
+	color : blue;
+}
+
+pre {
+	background-image: linear-gradient(to bottom, #4C9DB1 , #ffff0005);
+}
+
+.bg-gif{
+	position: relative;
+	width: 300px;
+	height: 300px;
+	aspect-ratio: auto 300 / 300;
+	margin: auto;
+	border-color: red;
+}
